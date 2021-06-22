@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "277805546979",
+    "project_id": "dewmon-32b67",
+    "storage_bucket": "dewmon-32b67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277805546979:android:8bf957b1ae8cc6a59cf4d6",
+        "android_client_info": {
+          "package_name": "com.example.android.dewmon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277805546979-4c5o2cbh0odga7dkdreg947qbifgqv5c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.dewmon",
+            "certificate_hash": "2b2e0b6822ae5be10677543f4cc1fd9413511f8a"
+          }
+        },
+        {
+          "client_id": "277805546979-6sl2rtno65utl1hv2j0f2fetapcuonp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR2kZYHS29YHm30N8yGenSKa0A5595Dfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277805546979-6sl2rtno65utl1hv2j0f2fetapcuonp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
